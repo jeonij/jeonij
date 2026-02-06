@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Homework
+- 🔭 I’m currently working on a hospital analyst project
 - 🌱 I’m currently learning MySQL, SDLC, and python
 - 👯 I’m looking to collaborate on data analytics projects
 - 🤔 I’m looking for help with job searching
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ijjeon@ualr.edu
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I really don't like kimchi as a korean
-
+- i am interested in learning data analytics
+- I really enjoy playing the guitar and games
